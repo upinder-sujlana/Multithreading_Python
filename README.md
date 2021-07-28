@@ -1,4 +1,4 @@
-# Multithreading_Python
+# Multithreading Demo in Python
 
 Python script utlizing multthreading capability. In the example I create 4 threads (number can be changed) which shall envoke run_remote_cmd worker function.
 
